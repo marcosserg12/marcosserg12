@@ -2,7 +2,7 @@
 
 Desenvolvedor **PHP e Full Stack** em Brasília. Desde 2020 crio e mantenho sistemas web que rodam em produção na saúde, no setor público e em projetos próprios (Fiocruz, Marinha do Brasil e Grupo Ibra). Trabalho do banco de dados à interface e uso IA no fluxo de trabalho (Claude Code) para revisar código, escrever testes e automatizar tarefas.
 
-**Stack:** PHP · Laravel · MySQL · JavaScript · React · Node.js · N8N · Nginx/VPS Linux
+**Stack:** PHP · Laravel · MySQL · JavaScript/TypeScript · React · Next.js · Node.js · Python · N8N · Nginx/VPS Linux
 
 ### Projetos em destaque
 
@@ -10,6 +10,7 @@ Desenvolvedor **PHP e Full Stack** em Brasília. Desde 2020 crio e mantenho sist
 |---|---|---|
 | [**Central de chamados**](https://github.com/marcosserg12/sistema_chamados) | Help desk multiempresa em produção: Kanban, chat em tempo real, triagem de chamados por IA e avisos no WhatsApp | Laravel 12 · Inertia + React · Reverb · Groq |
 | [**DDM E-commerce**](https://github.com/marcosserg12/ddm_vendas) | Loja virtual com catálogo, carrinho, checkout, cálculo de frete e painel administrativo | React · Vite · Tailwind · Node.js API |
+| [**Nana Lanches — PDV e NFC-e**](https://github.com/marcosserg12/nananotas) | Vendas de balcão com emissão de NFC-e direto na Sefaz-DF, XML assinado com certificado A1 | Python · FastAPI · SQLAlchemy |
 | [**Compilador SIMPLE**](https://github.com/marcosserg12/compilador-Java-Simple) | Análise léxica, sintática e semântica de uma linguagem simples | Java |
 
 Outros sistemas (ponto eletrônico, faturamento, atendimento com IA) ficam em repositórios privados.
